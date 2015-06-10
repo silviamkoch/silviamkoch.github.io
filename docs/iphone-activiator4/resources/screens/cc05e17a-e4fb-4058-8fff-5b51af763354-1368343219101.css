@@ -1,0 +1,462 @@
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 {
+  background-color: transparent;
+  min-width: 797px;
+  min-height: 607px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Group_4 {
+  position: absolute;
+  top: 172px;
+  left: 331px;
+  width: 50px;
+  height: 40px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Image_4 {
+  position: absolute;
+  top: 2px;
+  left: 12px;
+  width: 25px;
+  height: 25px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Label_3 {
+  position: absolute;
+  top: 27px;
+  left: 0px;
+  width: 50px;
+  height: 12px;
+  background-color: transparent;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 7pt;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 7pt;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Label_3 .valign {
+  vertical-align: middle;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Button_3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 42px;
+  height: 32px;
+  background-color: #FFFFFF;
+  background-image: -moz-linear-gradient(top,#FFFFFF,#EBEADB);
+  background-image: -webkit-linear-gradient(top,#FFFFFF,#EBEADB);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFFFFF), color-stop(100%,#EBEADB));
+  background-image: -o-linear-gradient(top,#FFFFFF,#EBEADB);
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-top-left-radius: 6px;
+  -moz-border-radius-topleft: 6px;
+  -webkit-border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  -moz-border-radius-topright: 6px;
+  -webkit-border-top-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  opacity: 0.5;
+  cursor: pointer;
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 8pt;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Button_3 .valign {
+  vertical-align: middle;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Group_2 {
+  position: absolute;
+  top: 172px;
+  left: 66px;
+  width: 70px;
+  height: 40px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Image_2 {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  width: 25px;
+  height: 25px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Label_1 {
+  position: absolute;
+  top: 27px;
+  left: 10px;
+  width: 50px;
+  height: 12px;
+  background-color: transparent;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 7pt;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 7pt;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Label_1 .valign {
+  vertical-align: middle;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Button_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 62px;
+  height: 32px;
+  background-color: #FFFFFF;
+  background-image: -moz-linear-gradient(top,#FFFFFF,#EBEADB);
+  background-image: -webkit-linear-gradient(top,#FFFFFF,#EBEADB);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFFFFF), color-stop(100%,#EBEADB));
+  background-image: -o-linear-gradient(top,#FFFFFF,#EBEADB);
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #999999;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #999999;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #999999;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #999999;
+  border-top-left-radius: 6px;
+  -moz-border-radius-topleft: 6px;
+  -webkit-border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  -moz-border-radius-topright: 6px;
+  -webkit-border-top-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  opacity: 0.2;
+  cursor: pointer;
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 8pt;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Button_1 .valign {
+  vertical-align: middle;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Group_3 {
+  position: absolute;
+  top: 172px;
+  left: 279px;
+  width: 50px;
+  height: 40px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Image_3 {
+  position: absolute;
+  top: 2px;
+  left: 12px;
+  width: 25px;
+  height: 25px;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Label_2 {
+  position: absolute;
+  top: 27px;
+  left: 0px;
+  width: 50px;
+  height: 12px;
+  background-color: transparent;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 7pt;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 7pt;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Label_2 .valign {
+  vertical-align: middle;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Button_2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 42px;
+  height: 32px;
+  background-color: #FFFFFF;
+  background-image: -moz-linear-gradient(top,#FFFFFF,#EBEADB);
+  background-image: -webkit-linear-gradient(top,#FFFFFF,#EBEADB);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#FFFFFF), color-stop(100%,#EBEADB));
+  background-image: -o-linear-gradient(top,#FFFFFF,#EBEADB);
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-top-left-radius: 6px;
+  -moz-border-radius-topleft: 6px;
+  -webkit-border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  -moz-border-radius-topright: 6px;
+  -webkit-border-top-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  opacity: 0.2;
+  cursor: pointer;
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 8pt;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Button_2 .valign {
+  vertical-align: middle;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_2 {
+  position: absolute;
+  top: 230px;
+  left: 90px;
+  width: 267px;
+  height: 168px;
+  background-color: transparent;
+  font-size: 9pt;
+  font-family: Euphemia UCAS;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_2 .valign {
+  vertical-align: top;
+  text-align: left;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_2 span {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_2 span#rtr-s-Rich_text_2_0 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 0px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_2 span#rtr-s-Rich_text_2_1 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 0px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_2 span#rtr-s-Rich_text_2_2 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 0px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_2 span#rtr-s-Rich_text_2_3 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 0px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Browser_1 {
+  position: absolute;
+  top: 397px;
+  left: 103px;
+  width: 240px;
+  height: 180px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_3 {
+  position: absolute;
+  top: 583px;
+  left: 90px;
+  width: 267px;
+  height: 24px;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 10pt;
+  font-family: Euphemia UCAS;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_3 .valign {
+  vertical-align: top;
+  text-align: left;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_3 span {
+  color: #33A4DF;
+  text-align: left;
+  text-decoration: underline;
+  font-family: Euphemia UCAS;
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_3 span#rtr-s-Rich_text_3_0 {
+  color: #33A4DF;
+  text-align: left;
+  text-decoration: underline;
+  font-family: Euphemia UCAS;
+  font-size: 10pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 0px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_4 {
+  position: absolute;
+  top: 230px;
+  left: 530px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  width: 257px;
+  height: 196px;
+  background-color: transparent;
+  line-height: 14px;
+  font-size: 9pt;
+  font-family: Arial;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_4 .valign {
+  vertical-align: top;
+  text-align: left;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_4 span {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_4 span#rtr-s-Rich_text_4_0 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 0px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_4 span#rtr-s-Rich_text_4_1 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 0px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_4 span#rtr-s-Rich_text_4_2 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 0px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_4 span#rtr-s-Rich_text_4_3 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 0px;
+}
+#s-cc05e17a-e4fb-4058-8fff-5b51af763354 #s-Rich_text_4 span#rtr-s-Rich_text_4_4 {
+  color: #000000;
+  text-align: left;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 0px;
+}

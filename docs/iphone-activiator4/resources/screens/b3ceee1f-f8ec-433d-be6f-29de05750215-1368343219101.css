@@ -1,0 +1,83 @@
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 {
+  background-color: transparent;
+  min-width: 399px;
+  min-height: 633px;
+}
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 #s-Image_8 {
+  position: absolute;
+  top: 149px;
+  left: 63px;
+  width: 321px;
+  height: 20px;
+}
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 #s-Rectangle_1 {
+  position: absolute;
+  top: 168px;
+  left: 63px;
+  width: 321px;
+  height: 465px;
+  background-color: #5BB8E4;
+  background-image: -moz-linear-gradient(top,#5BB8E4,#33A4DF);
+  background-image: -webkit-linear-gradient(top,#5BB8E4,#33A4DF);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#5BB8E4), color-stop(100%,#33A4DF));
+  background-image: -o-linear-gradient(top,#5BB8E4,#33A4DF);
+}
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 #s-Act_indicator {
+  position: absolute;
+  top: 383px;
+  left: 211px;
+  width: 21px;
+  height: 20px;
+}
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 #s-Label_1 {
+  position: absolute;
+  top: 281px;
+  left: 119px;
+  padding-left: 5px;
+  width: 275px;
+  height: 64px;
+  background-color: transparent;
+  color: #FFFFFF;
+  text-align: left;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 33pt;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 33pt;
+}
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 #s-Label_1 .valign {
+  vertical-align: middle;
+}
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 #s-Image_39 {
+  position: absolute;
+  top: 299px;
+  left: 96px;
+  width: 35px;
+  height: 35px;
+}
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 #s-Label_4 {
+  position: absolute;
+  top: 330px;
+  left: 119px;
+  padding-left: 5px;
+  width: 172px;
+  height: 22px;
+  background-color: transparent;
+  color: #FFFFFF;
+  text-align: left;
+  text-decoration: none;
+  font-family: Euphemia UCAS;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 12pt;
+}
+#s-b3ceee1f-f8ec-433d-be6f-29de05750215 #s-Label_4 .valign {
+  vertical-align: middle;
+}

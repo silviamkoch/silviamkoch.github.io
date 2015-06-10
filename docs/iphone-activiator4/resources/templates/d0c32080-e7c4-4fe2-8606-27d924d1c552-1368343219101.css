@@ -1,0 +1,86 @@
+#t-d0c32080-e7c4-4fe2-8606-27d924d1c552 {
+  background-color: #FFFFFF;
+  min-width: 412px;
+  min-height: 769px;
+}
+#t-d0c32080-e7c4-4fe2-8606-27d924d1c552 #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#t-d0c32080-e7c4-4fe2-8606-27d924d1c552 #t-Image_1 {
+  position: absolute;
+  top: 16px;
+  left: 32px;
+  width: 380px;
+  height: 753px;
+}
+#t-d0c32080-e7c4-4fe2-8606-27d924d1c552 #t-Rectangle_1 {
+  position: absolute;
+  top: 168px;
+  left: 63px;
+  width: 321px;
+  height: 465px;
+  background-color: #F1F1F1;
+}
+#t-d0c32080-e7c4-4fe2-8606-27d924d1c552 #t-Image_2 {
+  position: absolute;
+  top: 149px;
+  left: 63px;
+  width: 321px;
+  height: 20px;
+}
+#t-d0c32080-e7c4-4fe2-8606-27d924d1c552 #t-Rectangle_2 {
+  position: absolute;
+  top: 584px;
+  left: 63px;
+  width: 321px;
+  height: 49px;
+  background-color: #D0CFCE;
+  background-image: -moz-linear-gradient(top,#D0CFCE,#BFBEBC);
+  background-image: -webkit-linear-gradient(top,#D0CFCE,#BFBEBC);
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#D0CFCE), color-stop(100%,#BFBEBC));
+  background-image: -o-linear-gradient(top,#D0CFCE,#BFBEBC);
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #0099CC;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #0099CC;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #0099CC;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #0099CC;
+}
+#t-d0c32080-e7c4-4fe2-8606-27d924d1c552 #t-Label_4 {
+  position: absolute;
+  top: 168px;
+  left: 63px;
+  width: 321px;
+  height: 47px;
+  background-color: #33CCFF;
+  background-image: url('../../images/498479c0-6846-4278-83a4-4606fb761829.png');
+  background-repeat: repeat-x;
+  background-position: top left;
+  background-attachment: scroll;
+  color: #FFFFFF;
+  text-align: left;
+  text-decoration: none;
+  font-family: Eurostile;
+  font-size: 14pt;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 14pt;
+}
+#t-d0c32080-e7c4-4fe2-8606-27d924d1c552 #t-Label_4 .valign {
+  vertical-align: middle;
+}
+#t-d0c32080-e7c4-4fe2-8606-27d924d1c552 #t-Image_40 {
+  position: absolute;
+  top: 182px;
+  left: 69px;
+  width: 20px;
+  height: 20px;
+}
